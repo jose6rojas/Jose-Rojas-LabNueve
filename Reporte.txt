@@ -1,0 +1,19 @@
+Carros
+
+Carro #0
+Placa: CXP-1626
+Marca: Kia
+Modelo: Picanto
+Year: 2016
+Precio de Alquiler: Lps. 5000
+Estado: NoAlquilado
+
+Carro #1
+Placa: ZHK-8515
+Marca: Toyota
+Modelo: Corola
+Year: 1995
+Precio de Alquiler: Lps. 1000
+Estado: NoAlquilado
+
+

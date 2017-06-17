@@ -1,0 +1,9 @@
+Cliente: Carlos
+Carro alquilado:
+Placa: ZHK-8515
+Marca: Toyota
+Modelo: Corola
+Year: 1995
+Precio de Alquiler: Lps. 1000
+Estado: NoAlquilado
+

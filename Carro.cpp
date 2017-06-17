@@ -40,7 +40,7 @@ string Carro::getEstado()
 	if(estado)
 		return "Alquilado";
 	else
-		return "No Alquilado";
+		return "NoAlquilado";
 }
 
 string Carro::toString()
